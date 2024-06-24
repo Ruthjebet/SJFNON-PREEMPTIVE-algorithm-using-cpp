@@ -15,7 +15,9 @@ Standard Template Library (STL) support
 
 # Files
 main.cpp: Contains the main logic and menu for the SJF Non-Preemptive scheduling algorithm.
+
 TaskManager.h: Header file for the TaskManager class.
+
 task.h: Header file for the task class.
 
 # How it Works
